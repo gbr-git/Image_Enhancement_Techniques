@@ -1,6 +1,6 @@
 # License Plate Detection using matlab code. 
 ![image](https://github.com/gbr-git/Image_Enhancement_Techniques/assets/77921685/c036fc0f-6dcb-477c-9a81-f2e571b4e85d)
-Binarized Image
+## Binarized Image
 ![binarized](https://github.com/gbr-git/Image_Enhancement_Techniques/assets/77921685/60fec54f-dda0-4fa7-9e86-f46608988b9f)
 GreyScaling
 ![greysacle](https://github.com/gbr-git/Image_Enhancement_Techniques/assets/77921685/e86dc1c0-5378-48f5-ae5f-245e078f97ab)
